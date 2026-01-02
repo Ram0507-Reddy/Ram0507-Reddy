@@ -1,7 +1,8 @@
-<img width="1599" height="405" alt="Screenshot 2026-01-03 000727" src="https://github.com/user-attachments/assets/1027d75e-9748-409f-a1d1-49b85ebbf4f4" />
+<img width="1009" height="276" alt="Screenshot 2026-01-03 004254" src="https://github.com/user-attachments/assets/bc42cafe-6df2-4861-871b-3c01a26d8bb1" />
  👋Hi, I’m Shriram Reddy
 I’m a Computer Science student and Cybersecurity enthusiast who enjoys building clean, functional systems and documenting them clearly.
-My interests lie at the intersection of frontend engineering, system design, AI-assisted workflows, and secure architectures.
+My interests lie at the intersection of frontend engineering, system design, AI-assisted workflows, and secure arch
+itectures.
 
  >_About Me::
     B.Tech CSE (Cybersecurity) student
